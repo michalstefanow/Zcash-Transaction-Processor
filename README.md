@@ -37,8 +37,8 @@ return &Config{
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chinhnguyen-95/zcash-transaction-processor.git
-   cd zcash-transaction-processor
+   git clone https://github.com/michalstefanow/Zcash-Transaction-Processor.git
+   cd Zcash-Transaction-Processor
    ```
 2. Initialize Go modules:
    ```bash
